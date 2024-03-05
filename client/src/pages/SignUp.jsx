@@ -39,7 +39,7 @@ export default function SignUp() {
     }
     // console.log(data);
   };
-
+  
   // console.log(formData);
 
   return (
